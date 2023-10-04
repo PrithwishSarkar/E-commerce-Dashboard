@@ -1,3 +1,5 @@
+# E-commerce Dashboard
+
 A dashboard where we manage account and products of an e-commerce company.
 
 Front end is written in React.js and backend in Node.js
